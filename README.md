@@ -1,1 +1,1 @@
-# awesome_self_learning_list
+# awesome Self Learning list
